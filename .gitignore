@@ -1,0 +1,11 @@
+# Environments and caches
+venv/
+__pycache__/
+*.pyc
+
+# Project-specific ignored folders
+images/
+literature/
+
+# PyTorch Model weights
+*.pt
